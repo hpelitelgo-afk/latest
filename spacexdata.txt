@@ -1,1 +1,1 @@
-T=True;N=True;S=True;G=True;ST=True;
+T=true;S=true;N=true;G=true;ST=true
